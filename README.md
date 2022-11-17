@@ -47,3 +47,26 @@ The following paragraph presents a complete descriptions/mapping for patterns th
 | [D.1] Delete Statement |   Delete the statement |  FP 15.1|
 | [D.2] Delete Method Definition|  Delete the definition of method  |  FP 15.2|
 
+
+#### Distribution of TBar Pattern
+| Category ID | Ratio (%)  | 
+| ------------ | ------------ |
+| B.4.1	| 19| 
+| B.5| 	12| 
+| B.6	| 7| 
+| A.1.3	| 7| 
+| A.1.5| 	7| 
+| B.1.3	| 7| 
+| B.3.1	| 7| 
+| B.2.1| 	5| 
+| B.3.2.2	| 5| 
+| C.1| 	5| 
+| D.2	| 3| 
+| A.1.2	| 3| 
+|A.1.1 | 2| 
+| A.2.1	|  2| 
+| A.4| 	2| 
+| A.5	| 2| 
+| B.2.2.1| 	2| 
+| B.3.2.1| 	2| 
+| D.1| 2| 
